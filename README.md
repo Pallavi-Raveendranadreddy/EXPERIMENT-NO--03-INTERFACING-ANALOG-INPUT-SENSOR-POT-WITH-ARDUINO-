@@ -92,7 +92,7 @@ void loop()
 **
 
 
-[My image](username.github.com/repository/img/image.jpg)
+![My image](https://github.com/Pallavi-Raveendranadreddy/EXPERIMENT-NO--03-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/blob/dbcfceea5b98d91a689913e4bce6bf60593f12ec/robotics2.PNG)
 
 
 
